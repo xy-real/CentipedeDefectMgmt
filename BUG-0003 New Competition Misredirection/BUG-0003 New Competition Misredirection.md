@@ -2,7 +2,7 @@
 
 ## 📝 Bug Metadata
 * **Defect ID:** BUG-0003
-* **Related Test Case ID:** none
+* **Related Test Case ID:** COMP-0001(partial), COMP-0003(partial)
 * **Severity:** High
 * **Date Reported:** 2026-06-07
 * **Status:** Open
