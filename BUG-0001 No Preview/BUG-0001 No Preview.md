@@ -2,15 +2,14 @@
 
 ## 📝 Bug Metadata
 * **Defect ID:** BUG-0001
-* **Related Test Case ID:** none
-* **Severity:** Medium
+* **Related Test Case ID:** PBANK-0002(partial), PBANK-0003(partial), PBANK-0005(partial)
 * **Date Reported:** 2026-06-07
 * **Status:** Open
 
 ## 💻 Environment Setup
 * **Application Version:** v1.0.x (deployed)
 * **Operating System:** Linux
-* **Hardware:** (not specified)
+* **Hardware:** Intel Core i5 10th Gen, NVIDIA GTX 1650
 * **Network/Browser:** WiFi, Brave browser (desktop)
 
 ## 🛠️ Prerequisites
